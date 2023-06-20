@@ -1,5 +1,11 @@
 package clase5;
 
+/*
+    @author VirusJac 
+    @version 1
+    
+*/
+
 public class CalculadoraDescuento {
     private double precioOriginal, porcentajeDesc,precioFinal;
 

@@ -1,5 +1,11 @@
 package clase5;
 
+/*
+    @author VirusJac 
+    @version 1
+    
+*/
+
 public class EdadPerro {
         private int edadIngresado;
         private int edadEnperro;
